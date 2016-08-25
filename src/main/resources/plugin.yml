@@ -1,0 +1,5 @@
+name: PandemicClans
+version: ${project.version}
+main: pandemicclans.pandemicclans.PandemicClans
+authors: [Pandemic Developer Team]
+description: Clans for Pandemic!
